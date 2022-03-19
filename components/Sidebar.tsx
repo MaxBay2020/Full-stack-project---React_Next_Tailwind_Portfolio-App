@@ -37,10 +37,10 @@ const Sidebar = () => {
             </a>
 
             <div className='flex justify-around my-5 text-blue w-9/12 mx-auto md:w-full'>
-                <a href="https://github.com/MaxBay2020">
+                <a href="https://github.com/MaxBay2020" aria-label='Github'>
                     <BsGithub className='w-6 h-6 cursor-pointer' />
                 </a>
-                <a href="https://www.linkedin.com/in/cong-wang-69a7861a3/">
+                <a href="https://www.linkedin.com/in/cong-wang-69a7861a3/" aria-label='Linkedin'>
                     <BsLinkedin className='w-6 h-6 cursor-pointer' />
                 </a>
             </div>
