@@ -90,9 +90,9 @@ export const projects:IProject[] = [
     {
         id: 1,
         name: 'Pizza E-commerce',
-        description: 'This app is a E-commerce app including dashboard management system and Paypel payment system.',
-        image_path: '/images/example.png',
-        deployed_url: '',
+        description: 'This app is a full-stack E-commerce app including admin dashboard and payment process.',
+        image_path: '/images/pizza.png',
+        deployed_url: 'https://youtu.be/fJbzKAejVEk',
         github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs_Redux_Paypeljs_MongoDB-E-Commerce-Pizza-App-',
         category: ['Next', 'MongoDB'],
         key_techs: ['React', 'Next', 'Redux', 'MongoDB', 'Papal' ]
@@ -102,8 +102,8 @@ export const projects:IProject[] = [
         id: 2,
         name: 'Netflix Clone',
         description: 'This app is a Netflix clone app with authentication and payment process.',
-        image_path: '/images/example.png',
-        deployed_url: '',
+        image_path: '/images/netflix.png',
+        deployed_url: 'https://congsnetflix.herokuapp.com/',
         github_url: 'https://github.com/MaxBay2020/Full-stack-project---React_Redux_Stripe_Firebase_Netflix-App',
         category: ['React', 'Firebase'],
         key_techs: ['React', 'Redux', 'Firebase', 'Stripe' ]
@@ -112,45 +112,45 @@ export const projects:IProject[] = [
     {
         id: 3,
         name: 'Airbnb Clone',
-        description: 'This app is a Airbnb clone with dashboard using Sanity.io.',
-        image_path: '/images/example.png',
-        deployed_url: '',
+        description: 'This app is a Airbnb clone with dashboard using Sanity.io and Google map.',
+        image_path: '/images/airbnb.png',
+        deployed_url: 'https://congsairbnb.vercel.app/',
         github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs-Sanity_The-Walking-Dead-Airbnb-App',
         category: ['React', 'Next', 'Sanity.io'],
         key_techs: ['React', 'Next', 'Sanity']
     },
 
-    {
-        id: 4,
-        name: 'Recipe Records',
-        description: 'This app is a recipe records with dashboard using Sanity.io.',
-        image_path: '/images/example.png',
-        deployed_url: '',
-        github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs-Sanity_Recipe-App',
-        category: ['React', 'Next', 'Sanity.io'],
-        key_techs: ['React', 'Next', 'Sanity']
-    },
+    // {
+    //     id: 4,
+    //     name: 'Recipe Records',
+    //     description: 'This app is a recipe records with dashboard using Sanity.io.',
+    //     image_path: '/images/example.png',
+    //     deployed_url: '',
+    //     github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs-Sanity_Recipe-App',
+    //     category: ['React', 'Next', 'Sanity.io'],
+    //     key_techs: ['React', 'Next', 'Sanity']
+    // },
 
-    {
-        id: 5,
-        name: 'Travelling Sites Records',
-        description: 'This is an app to record the sites travelled to.',
-        image_path: '/images/example.png',
-        deployed_url: '',
-        github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs-MongoDB_Meetups-website',
-        category: ['React', 'Next', 'MongoDB'],
-        key_techs: ['React', 'Next', 'MongoDB']
-    },
+    // {
+    //     id: 5,
+    //     name: 'Travelling Sites Records',
+    //     description: 'This is an app to record the sites travelled to.',
+    //     image_path: '/images/example.png',
+    //     deployed_url: '',
+    //     github_url: 'https://github.com/MaxBay2020/Full-stack-project---Nextjs-MongoDB_Meetups-website',
+    //     category: ['React', 'Next', 'MongoDB'],
+    //     key_techs: ['React', 'Next', 'MongoDB']
+    // },
 
-    {
-        id: 6,
-        name: 'Student Course Management System',
-        description: 'This is to manage students and courses CRUD app.',
-        image_path: '/images/example.png',
-        deployed_url: '',
-        github_url: 'https://github.com/MaxBay2020/Full-stack-App---React-Express-MongoDB---Student-Course-Management-System',
-        category: ['React', 'Express', 'MongoDB'],
-        key_techs: ['React', 'Express', 'MongoDB']
-    },
+    // {
+    //     id: 6,
+    //     name: 'Student Course Management System',
+    //     description: 'This is to manage students and courses CRUD app.',
+    //     image_path: '/images/example.png',
+    //     deployed_url: '',
+    //     github_url: 'https://github.com/MaxBay2020/Full-stack-App---React-Express-MongoDB---Student-Course-Management-System',
+    //     category: ['React', 'Express', 'MongoDB'],
+    //     key_techs: ['React', 'Express', 'MongoDB']
+    // },
 ]
 

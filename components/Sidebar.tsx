@@ -31,7 +31,7 @@ const Sidebar = () => {
             </h3>
             <p className='px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200'>Web Developer</p>
             <a  className='px-2 py-1 my-3 bg-gray-200 rounded-full flex items-center justify-center  dark:bg-dark-200'
-                href='/assets/front-end_Cong Wang.docx'
+                href='/assets/full-stack_Cong Wang.pdf'
                 download='Resume_Cong_Wang'>
                 <GiTie className='w-6 h-6' /> Download Resume
             </a>

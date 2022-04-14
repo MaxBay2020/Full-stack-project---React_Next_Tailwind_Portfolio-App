@@ -16,7 +16,7 @@ const About = () => {
                 </title>
             </Head>
 
-            <h5 className='my-3 font-medium pb-3'>
+            <h5 className='my-3 font-medium pb-10'>
                 I am currently pursuing Advanced Diploma(Final Year)
                 in Game Programming from Centennial College. I have 3+ years of experience
                 in Web Development.
