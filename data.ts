@@ -119,6 +119,16 @@ export const projects:IProject[] = [
         category: ['React', 'Next', 'Sanity.io'],
         key_techs: ['React', 'Next', 'Sanity']
     },
+    {
+        id: 4,
+        name: 'Amazon Clone',
+        description: 'This app is a Amazon clone with react, redux, firebase, and PayPal.',
+        image_path: '/images/amazon.png',
+        deployed_url: 'https://congs-amazon.vercel.app/',
+        github_url: 'https://github.com/MaxBay2020/Full-stack-project---React_Redux_Firebase_PayPal_Amazon-Clone-App',
+        category: ['React', 'Firebase'],
+        key_techs: ['React', 'Redux', 'Firebase', 'PayPal']
+    },
 
     // {
     //     id: 4,
