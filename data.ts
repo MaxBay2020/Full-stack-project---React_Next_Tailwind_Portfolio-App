@@ -103,7 +103,7 @@ export const projects:IProject[] = [
         name: 'Netflix Clone',
         description: 'This app is a Netflix clone app with authentication and payment process.',
         image_path: '/images/netflix.png',
-        deployed_url: 'https://congsnetflix.herokuapp.com/',
+        deployed_url: 'https://congs-netflix.vercel.app/',
         github_url: 'https://github.com/MaxBay2020/Full-stack-project---React_Redux_Stripe_Firebase_Netflix-App',
         category: ['React', 'Firebase'],
         key_techs: ['React', 'Redux', 'Firebase', 'Stripe' ]
