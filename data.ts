@@ -13,7 +13,7 @@ export const services:IService[] = [
     },
     {
         title: 'Backend Dev',
-        about: 'Handle database, server, API using <b>Express.js</b> and <b>Sanity.io</b>',
+        about: 'Handle database, server, API using <b>Express.js</b> and <b>Serverless</b>',
         Icon: FaDatabase,
     },
     {

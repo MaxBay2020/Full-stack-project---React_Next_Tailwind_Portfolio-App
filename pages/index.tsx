@@ -17,8 +17,7 @@ const About = () => {
             </Head>
 
             <h5 className='my-3 font-medium pb-10'>
-                I am currently pursuing Advanced Diploma(Final Year)
-                in Game Programming from Centennial College. I have 3+ years of experience
+                I am currently working as a full stack developer. I have 5 years of experience
                 in Web Development.
             </h5>
             <div className='p-4 mt-5 bg-gray-400 flex-grow dark:bg-dark-100'
